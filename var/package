@@ -1,3 +1,4 @@
+repo="Apache.offline"
 name="apache2"
 bin=$name
 
